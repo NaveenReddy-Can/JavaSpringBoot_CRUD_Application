@@ -1,0 +1,25 @@
+@charset "ISO-8859-1";
+
+body {
+	background-color: #a3bf62;
+}
+
+h2 {
+	text-align: center;
+}h3{
+	text-align:center;
+}
+footer {
+	background-color: #323437;
+	text-align: center;
+	position:relative;
+	left: 0;
+	bottom: 0;
+	width: 100%;
+}
+
+p {
+	color: #F6f7f6;
+	font-weight: bold;
+	font-family: Arial;
+}
